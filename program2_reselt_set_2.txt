@@ -1,0 +1,8 @@
+enter number of element:
+9
+enter array elements: please enter space in between
+3 2 3 1 2 4 5 5 6
+enter K:
+4
+the K th element is 4
+4

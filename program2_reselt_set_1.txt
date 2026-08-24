@@ -1,0 +1,8 @@
+enter number of element:
+6
+enter array elements: please enter space in between
+3 2 1 5 6 4
+enter K:
+2
+the K th element is 5
+5

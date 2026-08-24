@@ -1,0 +1,23 @@
+Enter number of intervals:
+4
+Enter intervals:
+Enter start:
+1
+Enter end:
+3
+Enter start:
+2
+Enter end:
+6
+Enter start:
+8
+Enter end:
+9
+Enter start:
+15
+Enter end:
+18
+Merged intervals:
+[1, 6]
+[8, 9]
+[15, 18]

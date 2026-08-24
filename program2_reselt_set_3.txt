@@ -1,0 +1,8 @@
+enter number of element:
+4
+enter array elements: please enter space in between
+-1 -5 0 2
+enter K:
+1
+the K th element is 2
+2

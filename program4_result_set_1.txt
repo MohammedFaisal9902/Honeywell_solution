@@ -1,0 +1,16 @@
+Enter number of meetings:
+3
+Enter meeting intervals:
+Enter start time:
+0
+Enter end time:
+30
+Enter start time:
+5
+Enter end time:
+10
+Enter start time:
+15
+Enter end time:
+20
+Minimum number of meeting rooms required: 2
